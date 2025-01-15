@@ -1,19 +1,19 @@
-## тестовое задание, телеграм бот на лараел
-
+## тестовое задание, телеграм бот на laravel
+```
 - php: 7.4.33
 - laravel: 6.20.26
 - irazasyed/telegram-bot-sdk: 3.9
 - laravelrus/sleepingowl: 9.5
-
+```
 Развернуто на https://babenk00r.ru/,
 
-- / вход
+- /  вход
 - /register  регистрация
 - /logout  выход
-- /admin админка
-- admin/customers пользователи бота
-- /admin/mailing рассылка
+- /admin  админка
+- admin/customers  пользователи бота
+- /admin/mailing  рассылка
 
-(Можно использовать данные login: babenk00r@yandex.ru, pass: 12345678)
+(Можно использовать login: babenk00r@yandex.ru, pass: 12345678)
 
-Ссылка на бота в телеге - https://t.me/TestTaskZORDBOT
+Ссылка на бота в телеге https://t.me/TestTaskZORDBOT
