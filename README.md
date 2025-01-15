@@ -11,7 +11,7 @@
 - /register  регистрация
 - /logout  выход
 - /admin  админка
-- admin/customers  пользователи бота
+- /admin/customers  пользователи бота
 - /admin/mailing  рассылка
 
 (Можно использовать login: babenk00r@yandex.ru, pass: 12345678)
